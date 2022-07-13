@@ -230,32 +230,32 @@ body {
 }
 .img-1{
     background-image: -webkit-gradient(linear , left top , left bottom , from(rgba(12,32,59,0.9)));
-    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/7.jpg');
+    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/bg.jpg');
 
 }
 .img-2{
     background-image: -webkit-gradient(linear , left top , left bottom , from(rgba(12,32,59,0.9)));
-    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/8.jpg');
+    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/bg1.jpg');
 
 }
 .img-3{
     background-image: -webkit-gradient(linear , left top , left bottom , from(rgba(12,32,59,0.9)));
-    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/9.jpg');
+    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/bg2.jpg');
 
 }
 .img-4{
     background-image: -webkit-gradient(linear , left top , left bottom , from(rgba(12,32,59,0.9)));
-    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/10.jpg');
+    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/bg3.jpg');
 
 }
 .img-5{
     background-image: -webkit-gradient(linear , left top , left bottom , from(rgba(12,32,59,0.9)));
-    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/11.jpg');
+    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/bg4.jpg');
 
 }
 .img-6{
     background-image: -webkit-gradient(linear , left top , left bottom , from(rgba(12,32,59,0.9)));
-    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/12.jpg');
+    background-image: linear-gradient(180deg , rgba(12,32,59,0.55), rgba(12,32,59,0.74)) , url('../images/bg5.jpg');
 
 }
 .text-left-block{
@@ -324,5 +324,7 @@ body {
     text-align: center;
     padding-top: 5px;
 }
+
+
 
 
