@@ -43,4 +43,8 @@ a:hover {
     white-space: normal;
     object-fit: fill;
     -o-object-fit: fill;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction:column;
+    -ms-flex-direction: column;
 }
