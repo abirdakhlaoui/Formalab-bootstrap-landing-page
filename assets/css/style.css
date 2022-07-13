@@ -153,5 +153,14 @@ body {
 
 }
 
+.paragraph{
+    margin-top: 15px;
+    padding: 1rem 5rem 1rem 5rem;
+    font-size: 1.1rem;
+    color: #b1b4bd;
+    line-height: 1.4;
+    text-align: justify;
+
+}
 
 
