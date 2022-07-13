@@ -77,12 +77,18 @@ body {
     color: white;
 
 }
-.navbar-toggler span{
+
+.navbar-toggler{
     border: none;
-    width: 22px;
-    height: 2px;
-    border: 1px;
-    background: white;
+    padding: 10px 6px;
+    outline: none;
+}
+.navbar-toggler span{
+   display: block;
+   width: 22px;
+   height: 2px;
+   border: 1px;
+   background: #fff;
 
 }
 .navbar-toggler span + span{
@@ -116,4 +122,12 @@ body {
     background-color: #0a3d62;
     color: white;
   
+}
+
+.heading {
+    font-size: 5rem;
+    font-weight: bold;
+    line-height: 1.4;
+    text-align: center;
+    color: #fff;
 }
